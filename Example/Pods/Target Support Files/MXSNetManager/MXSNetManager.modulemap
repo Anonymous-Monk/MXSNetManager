@@ -1,0 +1,6 @@
+framework module MXSNetManager {
+  umbrella header "MXSNetManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
